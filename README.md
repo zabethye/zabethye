@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-    ⚡  I am highly motivated and positive person with tech passion  ⚡ \n
-⚡  I’m currently learning Python programming in SoftUni in Sofia, Bulgaria  ⚡ \n
-    ⚡  ################# Keep free to contact me! ################  ⚡ \n
+    ⚡  I am highly motivated and positive person with tech passion  ⚡ 
+    
+⚡  I’m currently learning Python programming in SoftUni in Sofia, Bulgaria  ⚡ 
+
+    ⚡  ################# Keep free to contact me! ################  ⚡ 
 
 
 
