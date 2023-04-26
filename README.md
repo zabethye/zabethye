@@ -3,8 +3,6 @@
 <br />
 
                                 ⚡  I am highly motivated and positive person with tech passion  ⚡ 
-    
-                           ⚡  I’m currently learning Python programming in SoftUni in Sofia, Bulgaria  ⚡ 
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=zabethye&theme=python-dark&border_radius=6.5&fire=DD2727)](https://git.io/streak-stats)
