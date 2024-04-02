@@ -5,6 +5,6 @@
                                 ⚡  I am highly motivated and positive person with tech passion  ⚡ 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=zabethye&theme=youtube-dark&border_radius=22)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=zabethye&theme=codestackr&border_radius=22&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 <br />
 <br />
